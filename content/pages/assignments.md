@@ -15,13 +15,84 @@ Presentations should be between 45 and 60 minutes long. Each presentation should
 
 ### CDD Forum Lecture Schedule
 
-| LEC # | SPEAKERS | TOPICS |
-| --- | --- | --- |
-| 1 | Nina Rappaport | Vertical Urban Factory |
-| 2 | Byran Bell | SEED Network |
-| 3 | Alejandro Echeverri | Social Urbanism |
-| 4 | Chelina Odbert | Kounkuey Design Initiative |
-| 5 | Teddy Cruz and Fonna Forman | Informal Market Worlds 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+SPEAKERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Nina Rappaport
+{{< tdclose >}}
+{{< tdopen >}}
+Vertical Urban Factory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Byran Bell
+{{< tdclose >}}
+{{< tdopen >}}
+SEED Network
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Alejandro Echeverri
+{{< tdclose >}}
+{{< tdopen >}}
+Social Urbanism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Chelina Odbert
+{{< tdclose >}}
+{{< tdopen >}}
+Kounkuey Design Initiative
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Teddy Cruz and Fonna Forman
+{{< tdclose >}}
+{{< tdopen >}}
+Informal Market Worlds
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 B. _Individual Report_: After the lecture, each member of the group that presented on the practitioner should revise the presentation in the form of a report, which should be roughly 2,000-words (approximately 5 pages). Reports must be individual write-ups (one per student). This report will focus on the reflections of the student alongside the lecture material.
 

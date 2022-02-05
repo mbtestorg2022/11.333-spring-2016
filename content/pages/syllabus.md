@@ -30,8 +30,52 @@ The Spring 2016 Urban Design Seminar features five public lectures by national o
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Assignment 1: Lecture Report {{< br >}}{{< br >}} *   Group pre-presentation 20%{{< br >}}*   Individual report 20% {{< br >}}{{< br >}}  | 40% |
-| Assignment 2: Urban Design Idea / Project | 40% |
-| Class participation, attendance, and engagement | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Assignment 1: Lecture Report
+
+*   Group pre-presentation 20%
+*   Individual report 20%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: Urban Design Idea / Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation, attendance, and engagement
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
